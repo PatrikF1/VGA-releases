@@ -1,5 +1,5 @@
 {
   "version": "2.1.2",
   "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.2/VGA-win-x64.zip",
-  "releaseNotes": "TEST — novi početni izbornik i provjera ažuriranja. Ako vidiš ovu poruku, sve radi."
+  "releaseNotes": "Novi početni izbornik; provjera ažuriranja preko GitHub API manifesta."
 }
