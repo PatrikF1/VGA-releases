@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
-  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.2/VGA-win-x64.zip",
-  "releaseNotes": "Novi početni izbornik; provjera ažuriranja preko GitHub API manifesta."
+  "version": "2.1.3",
+  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.3/VGA-win-x64.zip",
+  "releaseNotes": "UPPVA PDF: napomena prazna samo na ispisu. HRB naljepnice: P/CO2 = PKP + masa ST; S = PKP + masa bočice."
 }
