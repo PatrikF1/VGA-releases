@@ -1,5 +1,5 @@
 {
-  "version": "2.1.6",
-  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.6/VGA-win-x64.zip",
-  "releaseNotes": "UPPVA: polje korisnik/firma prazno pri svakom otvaranju (bez auto-odabira prve firme)."
+  "version": "2.1.7",
+  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.7/VGA-win-x64.zip",
+  "releaseNotes": "HRB: brtva ventila i manometra na utrošeni materijal (P/S HRB). CO2-HRB bez brtvi."
 }
