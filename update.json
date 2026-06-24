@@ -1,5 +1,5 @@
 {
-  "version": "2.1.7",
-  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.7/VGA-win-x64.zip",
-  "releaseNotes": "HRB: brtva ventila i manometra na utrošeni materijal (P/S HRB). CO2-HRB bez brtvi."
+  "version": "2.1.8",
+  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.8/VGA-win-x64.zip",
+  "releaseNotes": "P-HRB: usluga Punjenje plinom u izvršenim radovima (kao na P tipovima)."
 }
