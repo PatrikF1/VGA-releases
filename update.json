@@ -1,5 +1,5 @@
 {
-  "version": "2.1.12",
-  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.12/VGA-win-x64.zip",
-  "releaseNotes": "UPPVA: oznake i filtriranje stavki i firmi koje čekaju radni nalog."
+  "version": "2.1.13",
+  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.13/VGA-win-x64.zip",
+  "releaseNotes": "Odabir servisa Pula/Umag za PDF i poboljšanja UPPVA radnih naloga."
 }
