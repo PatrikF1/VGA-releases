@@ -1,5 +1,5 @@
 {
-  "version": "2.1.15",
-  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.15/VGA-win-x64.zip",
-  "releaseNotes": "UPPVA prikazuje ukupno čekanje radnog naloga za sve firme i zaseban broj za odabranu firmu. Brojači se osvježavaju pri povratku u prozor, bez gubitka nespremljenog unosa."
+  "version": "2.1.16",
+  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.16/VGA-win-x64.zip",
+  "releaseNotes": "Dodan P-3HRB u katalog aparata; ispravljen prikaz broja UPPVA zapisa koji čekaju radni nalog (stari zapisi prije ažuriranja više se ne broje kao čekači)."
 }
