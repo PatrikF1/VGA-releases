@@ -1,5 +1,5 @@
 {
-  "version": "2.1.16",
-  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.16/VGA-win-x64.zip",
-  "releaseNotes": "Dodan P-3HRB u katalog aparata; ispravljen prikaz broja UPPVA zapisa koji čekaju radni nalog (stari zapisi prije ažuriranja više se ne broje kao čekači)."
+  "version": "2.1.17",
+  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.17/VGA-win-x64.zip",
+  "releaseNotes": "Radni nalog: izvoz u Word (F5); u zaglavlju radnog naloga prikazane adrese oba servisa (Umag i Pula)."
 }
