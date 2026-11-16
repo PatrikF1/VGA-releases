@@ -1,5 +1,5 @@
 {
-  "version": "2.1.17",
-  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.17/VGA-win-x64.zip",
-  "releaseNotes": "Radni nalog: izvoz u Word (F5); u zaglavlju radnog naloga prikazane adrese oba servisa (Umag i Pula)."
+  "version": "2.1.18",
+  "downloadUrl": "https://github.com/PatrikF1/VGA-releases/releases/download/v2.1.18/VGA-win-x64.zip",
+  "releaseNotes": "Radni nalozi: uklonjen izvoz u PDF, izvoz samo u Word (F5)."
 }
